@@ -141,6 +141,7 @@ Contribuições são sempre bem-vindas\! Se você tiver ideias para melhorias, n
 ### 📝 Licença
 
 Este projeto é de código aberto e está sob a licença [MIT](https://www.google.com/search?q=LICENSE).
+
 O código foi gerado por inteligência artificial (Gemini - 2.5 Flash), supervisionado por mim.
 
 -----
