@@ -1,6 +1,6 @@
 -----
 
-## 🚦 Monitor de Portas Abertas (ApPortas) (IAG)
+## 🚦 Monitor de Portas Abertas (ApPortas) (AIG)
 
 **ApPortas** é uma aplicação web leve, baseada em **Flask** e **Psutil**, projetada para monitorar e exibir portas TCP/UDP em estado `LISTEN` no seu servidor. Ele permite identificar quais processos ou contêineres estão utilizando cada porta, além de oferecer funcionalidades de busca, ordenação e mapeamento personalizado de portas para nomes de aplicações.
 
